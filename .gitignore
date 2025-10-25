@@ -1,0 +1,63 @@
+# Build artifacts
+build/
+*.o
+*.elf
+*.hex
+*.bin
+*.map
+*.lst
+*.d
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# STM32CubeIDE
+.settings/
+Debug/
+Release/
+
+# Keil MDK
+*.uvguix.*
+*.uvoptx
+DebugConfig/
+RTE/
+
+# IAR
+Debug/
+Release/
+settings/
+
+# Temporary files
+*.tmp
+*.bak
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+venv/
+ENV/
+
+# Documentation builds
+*.pdf~
+*.aux
+*.out
+
+# Hardware design temporaries
+*.b#*
+*.s#*
+*.l#*
+*.kicad_pcb-bak
+*-cache.lib
+fp-info-cache
