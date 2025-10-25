@@ -110,7 +110,7 @@ Created Documents:
 
 ### System Capabilities
 | Parameter | Specification |
-|-----------|--------------|
+|-----------|---------------|
 | Supercap Voltage Range | 12V - 24V |
 | Rated Operating Voltage | 16V |
 | Max Charge Current | 10A |
@@ -142,7 +142,7 @@ Created Documents:
 
 ### Comparison Table
 | Feature | V1 | V2 |
-|---------|----|----|
+|---------|----|-----|
 | Back-EMF Recovery | ❌ | ✅ |
 | States | 3 | 6 |
 | Safety Features | Basic | Comprehensive |
