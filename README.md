@@ -19,4 +19,4 @@ GAME WILL OVER，lucky,终于冲放电成功了，不报错，不过另一个的
 ![示例图片](./images/bddd30c41214a60b02a6bd5d8a0acdb1.jpg)
 **11.19**  
 炸了....
-![示例图片](./images/bddd30c41214a60b02a6bd5d8a0acdb1.jpg)
+![示例图片](./images/7e7f8430b72a256382f57af44d6eefd4.jpg)
